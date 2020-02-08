@@ -52,10 +52,7 @@ def process_main(dir):
                 list.append(file)
         list.sort()
         for i, it in enumerate(list):
-            if i <= 200:
-                generate_file(it)
-        # for it in list:
-        #     generate_file(it)
+            generate_file(it)
 
 
 if __name__ == '__main__':
