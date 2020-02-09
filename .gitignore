@@ -1,0 +1,6 @@
+hd/
+gen/
+**/.idea/
+*.tmp
+*.pyck
+*.DS_Store
