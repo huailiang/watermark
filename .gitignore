@@ -4,3 +4,8 @@ gen/
 *.tmp
 *.pyck
 *.DS_Store
+filter/
+*.mp4
+*.MP4
+hd copy/
+gen2/
